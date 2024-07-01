@@ -1,0 +1,11 @@
+[
+    {
+      "model": "Spark Lite",
+      "provider": "讯飞星火大模型",
+      "context": "",
+      "inputCost": "",
+      "outputCost": "",
+      "remark": "QPS 2",
+      "link": "https://xinghuo.xfyun.cn/sparkapi"
+    }
+  ]

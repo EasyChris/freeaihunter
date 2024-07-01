@@ -1,0 +1,290 @@
+[
+    {
+        "model": "Qwen/Qwen2-7B-Instruct",
+        "provider": "siliconflow",
+        "context": "32K",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "RPM:100,QPS:3",
+        "link": "https://siliconflow.cn/pricing"
+    },
+    {
+        "model": "Qwen/Qwen2-1.5B-Instruct",
+        "provider": "siliconflow",
+        "context": "32K",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "RPM:100,QPS:3",
+        "link": "https://siliconflow.cn/pricing"
+    },
+    {
+        "model": "Qwen/Qwen1.5-7B-Chat",
+        "provider": "siliconflow",
+        "context": "32K",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "RPM:100,QPS:3",
+        "link": "https://siliconflow.cn/pricing"
+    },
+    {
+        "model": "THUDM/gIm-4-9b-chat",
+        "provider": "siliconflow",
+        "context": "32K",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "RPM:100,QPS:3",
+        "link": "https://siliconflow.cn/pricing"
+    },
+    {
+        "model": "THUDM/ChatGLM3-6b",
+        "provider": "siliconflow",
+        "context": "32K",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "RPM:100,QPS:3",
+        "link": "https://siliconflow.cn/pricing"
+    },
+    {
+        "model": "01-ai/Yi-1.5-9B-Chat-16K",
+        "provider": "siliconflow",
+        "context": "16K",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "RPM:100,QPS:3",
+        "link": "https://siliconflow.cn/pricing"
+    },
+    {
+        "model": "01-ai/Yi-1.5-6B-Chat",
+        "provider": "siliconflow",
+        "context": "4K",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "RPM:100,QPS:3",
+        "link": "https://siliconflow.cn/pricing"
+    },
+    {
+        "model": "gemini 1.5 flash",
+        "provider": "Google",
+        "context": "",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "15 RPM，100万个 TPM，1500 RPD",
+        "link": "https://ai.google.dev/pricing"
+    },
+    {
+        "model": "Gemini 1.5 Pro",
+        "provider": "Google",
+        "context": "",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "2 RPM,32,000TPM,50 RPD",
+        "link": "https://ai.google.dev/pricing"
+    },
+    {
+        "model": "Gemini 1.0 Pro",
+        "provider": "Google",
+        "context": "",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "15 RPM,32,000TPM,1500 RPD",
+        "link": "https://ai.google.dev/pricing"
+    },
+    {
+        "model": "LLaMA3 8b",
+        "provider": "Groq",
+        "context": "8,192 tokens",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "14400 RPD,18000 TPM,14370 RPD,17997 TPM,",
+        "link": "https://console.groq.com/"
+    },
+    {
+        "model": "LLaMA3 70b",
+        "provider": "Groq",
+        "context": "8,192 tokens",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "14400 RPD,18000 TPM,14370 RPD,17997 TPM,",
+        "link": "https://console.groq.com/"
+    },
+    {
+        "model": "Mixtral 8x7b",
+        "provider": "Groq",
+        "context": "32,768 tokens",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "14400 RPD,18000 TPM,14370 RPD,17997 TPM,",
+        "link": "https://console.groq.com/"
+    },
+    {
+        "model": "Gemma 7b",
+        "provider": "Groq",
+        "context": "8,192 tokens",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "14400 RPD,18000 TPM,14370 RPD,17997 TPM,",
+        "link": "https://console.groq.com/"
+    },
+    {
+        "model": "Whisper",
+        "provider": "Groq",
+        "context": "25 MB",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "14400 RPD,18000 TPM,14370 RPD,17997 TPM,",
+        "link": "https://console.groq.com/"
+    },
+    {
+        "model": "GLM3-130B",
+        "provider": "火山引擎",
+        "context": "8K",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "",
+        "link": "https://www.volcengine.com/docs/82379/1099320"
+    },
+    {
+        "model": "GLM3-130B金融模型",
+        "provider": "火山引擎",
+        "context": "8K",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "",
+        "link": "https://www.volcengine.com/docs/82379/1099320"
+    },
+    {
+        "model": "Lama3-8B（开源）",
+        "provider": "火山引擎",
+        "context": "8K",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "",
+        "link": "https://www.volcengine.com/docs/82379/1099320"
+    },
+    {
+        "model": "Llama3-70B（开源）",
+        "provider": "火山引擎",
+        "context": "32K",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "",
+        "link": "https://www.volcengine.com/docs/82379/1099320"
+    },
+    {
+        "model": "Mistral-7B（开源）",
+        "provider": "火山引擎",
+        "context": "4K",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "",
+        "link": "https://www.volcengine.com/docs/82379/1099320"
+    },
+    {
+        "model": "baichuan-7B（开源）",
+        "provider": "火山引擎",
+        "context": "2K",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "",
+        "link": "https://www.volcengine.com/docs/82379/1099320"
+    },
+    {
+        "model": "Dolly-V2-12B（开源）",
+        "provider": "火山引擎",
+        "context": "Free",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "",
+        "link": "https://www.volcengine.com/docs/82379/1099320"
+    },
+    {
+        "model": "豆包·Function call模型(32K)",
+        "provider": "coze.cn",
+        "context": "32K",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "QPS:2,QPM:60.QPD:3000",
+        "link": "https://www.coze.cn/docs/developer_guides/coze_api_overview"
+    },
+    {
+        "model": "通义千问-Max(8K)",
+        "provider": "coze.cn",
+        "context": "8K",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "QPS:2,QPM:60.QPD:3000",
+        "link": "https://www.coze.cn/docs/developer_guides/coze_api_overview"
+    },
+    {
+        "model": "MiniMax 6.5s(245K)",
+        "provider": "coze.cn",
+        "context": "245K",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "QPS:2,QPM:60.QPD:3000",
+        "link": "https://www.coze.cn/docs/developer_guides/coze_api_overview"
+    },
+    {
+        "model": "Moonshot（8K）",
+        "provider": "coze.cn",
+        "context": "8K",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "QPS:2,QPM:60.QPD:3000",
+        "link": "https://www.coze.cn/docs/developer_guides/coze_api_overview"
+    },
+    {
+        "model": "Moonshot（32K）",
+        "provider": "coze.cn",
+        "context": "32K",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "QPS:2,QPM:60.QPD:3000",
+        "link": "https://www.coze.cn/docs/developer_guides/coze_api_overview"
+    },
+    {
+        "model": "Moonshot（128K）",
+        "provider": "coze.cn",
+        "context": "128K",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "QPS:2,QPM:60.QPD:3000",
+        "link": "https://www.coze.cn/docs/developer_guides/coze_api_overview"
+    },
+    {
+        "model": "hunyuan-lite",
+        "provider": "腾讯",
+        "context": "",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "限制并发数为 5 路",
+        "link": "https://cloud.tencent.com/document/api/1729/105701"
+    },
+    {
+        "model": "ERNIE Speed系列",
+        "provider": "百度千帆",
+        "context": "",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "Lite、Speed-8K：RPM = 300，TPM = 300000\nSpeed-128K：RPM = 60，TPM = 300000",
+        "link": "https://cloud.baidu.com/doc/WENXINWORKSHOP/s/hlrk4akp7"
+    },
+    {
+        "model": "ERNIE Lite系列",
+        "provider": "百度千帆",
+        "context": "",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "Lite、Speed-8K：RPM = 300，TPM = 300000\nSpeed-128K：RPM = 60，TPM = 300000",
+        "link": "https://cloud.baidu.com/doc/WENXINWORKSHOP/s/hlrk4akp7"
+    },
+    {
+        "model": "Spark Lite",
+        "provider": "讯飞星火大模型",
+        "context": "",
+        "inputCost": "Free",
+        "outputCost": "Free",
+        "remark": "QPS 2",
+        "link": "https://xinghuo.xfyun.cn/sparkapi"
+      } 
+]

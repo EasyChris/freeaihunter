@@ -1,0 +1,65 @@
+[
+  { 
+    "model": "GLM3-130B", 
+    "provider": "火山引擎", 
+    "context": "8K", 
+    "inputCost": "免费限量测试", 
+    "outputCost": "免费限量测试", 
+    "remark": "", 
+    "link": "https://www.volcengine.com/docs/82379/1099320"
+  },
+  { 
+    "model": "GLM3-130B金融模型", 
+    "provider": "火山引擎", 
+    "context": "8K", 
+    "inputCost": "免费限量测试", 
+    "outputCost": "免费限量测试", 
+    "remark": "", 
+    "link": "https://www.volcengine.com/docs/82379/1099320"
+  },
+  { 
+    "model": "Lama3-8B（开源）", 
+    "provider": "火山引擎", 
+    "context": "8K", 
+    "inputCost": "免费限量测试", 
+    "outputCost": "免费限量测试", 
+    "remark": "", 
+    "link": "https://www.volcengine.com/docs/82379/1099320"
+  },
+  { 
+    "model": "Llama3-70B（开源）", 
+    "provider": "火山引擎", 
+    "context": "32K", 
+    "inputCost": "免费限量测试", 
+    "outputCost": "免费限量测试", 
+    "remark": "", 
+    "link": "https://www.volcengine.com/docs/82379/1099320"
+  },
+  { 
+    "model": "Mistral-7B（开源）", 
+    "provider": "火山引擎", 
+    "context": "4K", 
+    "inputCost": "免费限量测试", 
+    "outputCost": "免费限量测试", 
+    "remark": "", 
+    "link": "https://www.volcengine.com/docs/82379/1099320"
+  },
+  { 
+    "model": "baichuan-7B（开源）", 
+    "provider": "火山引擎", 
+    "context": "2K", 
+    "inputCost": "免费限量测试", 
+    "outputCost": "免费限量测试", 
+    "remark": "", 
+    "link": "https://www.volcengine.com/docs/82379/1099320"
+  },
+  { 
+    "model": "Dolly-V2-12B（开源）", 
+    "provider": "火山引擎", 
+    "context": "免费限量测试", 
+    "inputCost": "免费限量测试", 
+    "outputCost": "免费限量测试", 
+    "remark": "", 
+    "link": "https://www.volcengine.com/docs/82379/1099320"
+  }
+]

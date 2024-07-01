@@ -1,0 +1,56 @@
+[
+    { 
+      "model": "豆包·Function call模型(32K)", 
+      "provider": "coze.cn", 
+      "context": "32K", 
+      "inputCost": "", 
+      "outputCost": "", 
+      "remark": "QPS (每秒发送的请求数)：2\nQPM (每分钟发送的请求数)：60\nQPD (每天发送的请求数)：3000", 
+      "link": "https://www.coze.cn/docs/developer_guides/coze_api_overview"
+    },
+    { 
+      "model": "通义千问-Max(8K)", 
+      "provider": "coze.cn", 
+      "context": "8K", 
+      "inputCost": "", 
+      "outputCost": "", 
+      "remark": "QPS (每秒发送的请求数)：2\nQPM (每分钟发送的请求数)：60\nQPD (每天发送的请求数)：3000", 
+      "link": "https://www.coze.cn/docs/developer_guides/coze_api_overview"
+    },
+    { 
+      "model": "MiniMax 6.5s(245K)", 
+      "provider": "coze.cn", 
+      "context": "245K", 
+      "inputCost": "", 
+      "outputCost": "", 
+      "remark": "QPS (每秒发送的请求数)：2\nQPM (每分钟发送的请求数)：60\nQPD (每天发送的请求数)：3000", 
+      "link": "https://www.coze.cn/docs/developer_guides/coze_api_overview"
+    },
+    { 
+      "model": "Moonshot（8K）", 
+      "provider": "coze.cn", 
+      "context": "8K", 
+      "inputCost": "", 
+      "outputCost": "", 
+      "remark": "QPS (每秒发送的请求数)：2\nQPM (每分钟发送的请求数)：60\nQPD (每天发送的请求数)：3000", 
+      "link": "https://www.coze.cn/docs/developer_guides/coze_api_overview"
+    },
+    { 
+      "model": "Moonshot（32K）", 
+      "provider": "coze.cn", 
+      "context": "32K", 
+      "inputCost": "", 
+      "outputCost": "", 
+      "remark": "QPS (每秒发送的请求数)：2\nQPM (每分钟发送的请求数)：60\nQPD (每天发送的请求数)：3000", 
+      "link": "https://www.coze.cn/docs/developer_guides/coze_api_overview"
+    },
+    { 
+      "model": "Moonshot（128K）", 
+      "provider": "coze.cn", 
+      "context": "128K", 
+      "inputCost": "", 
+      "outputCost": "", 
+      "remark": "QPS (每秒发送的请求数)：2\nQPM (每分钟发送的请求数)：60\nQPD (每天发送的请求数)：3000", 
+      "link": "https://www.coze.cn/docs/developer_guides/coze_api_overview"
+    }
+  ]

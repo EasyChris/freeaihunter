@@ -1,0 +1,47 @@
+[
+  {
+    "model": "LLaMA3 8b",
+    "provider": "Groq",
+    "context": "8,192 tokens",
+    "inputCost": "",
+    "outputCost": "",
+    "remark": "",
+    "link": "https://console.groq.com/"
+  },
+  {
+    "model": "LLaMA3 70b",
+    "provider": "Groq",
+    "context": "8,192 tokens",
+    "inputCost": "",
+    "outputCost": "",
+    "remark": "",
+    "link": "https://console.groq.com/"
+  },
+  {
+    "model": "Mixtral 8x7b",
+    "provider": "Groq",
+    "context": "32,768 tokens",
+    "inputCost": "",
+    "outputCost": "",
+    "remark": "",
+    "link": "https://console.groq.com/"
+  },
+  {
+    "model": "Gemma 7b",
+    "provider": "Groq",
+    "context": "8,192 tokens",
+    "inputCost": "",
+    "outputCost": "",
+    "remark": "",
+    "link": "https://console.groq.com/"
+  },
+  {
+    "model": "Whisper",
+    "provider": "Groq",
+    "context": "25 MB",
+    "inputCost": "",
+    "outputCost": "",
+    "remark": "",
+    "link": "https://console.groq.com/"
+  }
+]

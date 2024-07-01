@@ -1,0 +1,11 @@
+[
+    {
+    "model": "hunyuan-lite",
+    "provider": "腾讯",
+    "context": "",
+    "inputCost": "Free",
+    "outputCost": "Free",
+    "remark": "限制并发数为 5 路",
+    "link": "https://cloud.tencent.com/document/api/1729/105701"
+  }
+]

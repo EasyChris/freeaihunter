@@ -1,0 +1,4 @@
+[
+  { "model": "ERNIE Speed系列", "provider": "百度千帆", "context": "", "inputCost": "免费", "outputCost": "免费", "remark": "Lite、Speed-8K：RPM = 300，TPM = 300000\nSpeed-128K：RPM = 60，TPM = 300000", "link": "https://cloud.baidu.com/doc/WENXINWORKSHOP/s/hlrk4akp7" },
+  { "model": "ERNIE Lite系列", "provider": "百度千帆", "context": "", "inputCost": "免费", "outputCost": "免费", "remark": "Lite、Speed-8K：RPM = 300，TPM = 300000\nSpeed-128K：RPM = 60，TPM = 300000", "link": "https://cloud.baidu.com/doc/WENXINWORKSHOP/s/hlrk4akp7" }
+]

@@ -1,0 +1,578 @@
+[
+    {
+        "model": "claude-3-opus",
+        "provider": "AWS",
+        "context": "200K",
+        "inputCost": 15,
+        "outputCost": 75,
+        "remark": ""
+    },
+    {
+        "model": "gpt-4",
+        "provider": "OpenAI",
+        "context": "8K",
+        "inputCost": 30,
+        "outputCost": 60,
+        "remark": ""
+    },
+    {
+        "model": "codey-for-code-completion",
+        "provider": "Google",
+        "context": "",
+        "inputCost": 25,
+        "outputCost": 50,
+        "remark": ""
+    },
+    {
+        "model": "gpt-3.5-turbo-0613",
+        "provider": "Azure",
+        "context": "",
+        "inputCost": 30,
+        "outputCost": 40,
+        "remark": ""
+    },
+    {
+        "model": "gpt-4-vision-preview",
+        "provider": "OpenAI",
+        "context": "128K",
+        "inputCost": 10,
+        "outputCost": 30,
+        "remark": ""
+    },
+    {
+        "model": "gpt-4-1106-preview",
+        "provider": "OpenAI",
+        "context": "",
+        "inputCost": 10,
+        "outputCost": 30,
+        "remark": ""
+    },
+    {
+        "model": "gpt-4-0125-preview",
+        "provider": "OpenAI",
+        "context": "128K",
+        "inputCost": 10,
+        "outputCost": 30,
+        "remark": ""
+    },
+    {
+        "model": "gpt-4-turbo-2024-04-09",
+        "provider": "OpenAI",
+        "context": "128K",
+        "inputCost": 10,
+        "outputCost": 30,
+        "remark": ""
+    },
+    {
+        "model": "gpt-4-turbo-1106-preview",
+        "provider": "Azure",
+        "context": "",
+        "inputCost": 10,
+        "outputCost": 30,
+        "remark": ""
+    },
+    {
+        "model": "claude-2.1",
+        "provider": "AWS",
+        "context": "200K",
+        "inputCost": 8,
+        "outputCost": 24,
+        "remark": ""
+    },
+    {
+        "model": "claude-2.0",
+        "provider": "AWS",
+        "context": "100K",
+        "inputCost": 8,
+        "outputCost": 24,
+        "remark": ""
+    },
+    {
+        "model": "claude-2.1",
+        "provider": "Anthropic",
+        "context": "200K",
+        "inputCost": 8,
+        "outputCost": 24,
+        "remark": ""
+    },
+    {
+        "model": "claude-2",
+        "provider": "Anthropic",
+        "context": "100K",
+        "inputCost": 8,
+        "outputCost": 24,
+        "remark": ""
+    },
+    {
+        "model": "davinci-002",
+        "provider": "Azure",
+        "context": "",
+        "inputCost": 20,
+        "outputCost": 20,
+        "remark": ""
+    },
+    {
+        "model": "jurassic-2-ultra",
+        "provider": "AWS",
+        "context": "32K",
+        "inputCost": 18.8,
+        "outputCost": 18.8,
+        "remark": ""
+    },
+    {
+        "model": "claude-3.5-sonnet",
+        "provider": "AWS",
+        "context": "",
+        "inputCost": 3,
+        "outputCost": 15,
+        "remark": ""
+    },
+    {
+        "model": "command-r+",
+        "provider": "AWS",
+        "context": "128K",
+        "inputCost": 3,
+        "outputCost": 15,
+        "remark": ""
+    },
+    {
+        "model": "command-r+",
+        "provider": "Cohere",
+        "context": "128K",
+        "inputCost": 3,
+        "outputCost": 15,
+        "remark": ""
+    },
+    {
+        "model": "gpt-3.5-turbo-4k",
+        "provider": "Azure",
+        "context": "",
+        "inputCost": 5,
+        "outputCost": 15,
+        "remark": ""
+    },
+    {
+        "model": "gpt-3.5-turbo-16k",
+        "provider": "Azure",
+        "context": "",
+        "inputCost": 5,
+        "outputCost": 15,
+        "remark": ""
+    },
+    {
+        "model": "claude-3-sonnet",
+        "provider": "AWS",
+        "context": "200K",
+        "inputCost": 3,
+        "outputCost": 15,
+        "remark": ""
+    },
+    {
+        "model": "jurassic-2-mid",
+        "provider": "AWS",
+        "context": "32K",
+        "inputCost": 12.5,
+        "outputCost": 12.5,
+        "remark": ""
+    },
+    {
+        "model": "mistral-large-2402",
+        "provider": "Mistral",
+        "context": "",
+        "inputCost": 4,
+        "outputCost": 12,
+        "remark": ""
+    },
+    {
+        "model": "mistral-large",
+        "provider": "Mistral",
+        "context": "32K",
+        "inputCost": 4,
+        "outputCost": 12,
+        "remark": ""
+    },
+    {
+        "model": "mistral-medium-2312",
+        "provider": "Mistral",
+        "context": "",
+        "inputCost": 2.7,
+        "outputCost": 8.1,
+        "remark": ""
+    },
+    {
+        "model": "mistral-medium",
+        "provider": "Mistral",
+        "context": "32K",
+        "inputCost": 2.7,
+        "outputCost": 8.1,
+        "remark": ""
+    },
+    {
+        "model": "palm-2-for-texttext-unicorn",
+        "provider": "Google",
+        "context": "",
+        "inputCost": 2.5,
+        "outputCost": 7.5,
+        "remark": ""
+    },
+    {
+        "model": "open-mixtral-8x22b",
+        "provider": "Mistral",
+        "context": "",
+        "inputCost": 2,
+        "outputCost": 6,
+        "remark": ""
+    },
+    {
+        "model": "command-r-fine-tuned-model",
+        "provider": "Cohere",
+        "context": "",
+        "inputCost": 2,
+        "outputCost": 4,
+        "remark": ""
+    },
+    {
+        "model": "fine-tuned-command-r",
+        "provider": "Cohere",
+        "context": "",
+        "inputCost": 2,
+        "outputCost": 4,
+        "remark": ""
+    },
+    {
+        "model": "fine-tuned-model",
+        "provider": "Cohere",
+        "context": "",
+        "inputCost": 2,
+        "outputCost": 4,
+        "remark": ""
+    },
+    {
+        "model": "gpt-3.5-turbo-16k-0613",
+        "provider": "OpenAI",
+        "context": "16K",
+        "inputCost": 3,
+        "outputCost": 4,
+        "remark": ""
+    },
+    {
+        "model": "babbage-002",
+        "provider": "Azure",
+        "context": "",
+        "inputCost": 4,
+        "outputCost": 4,
+        "remark": ""
+    },
+    {
+        "model": "llama-3-instruct-70b",
+        "provider": "AWS",
+        "context": "",
+        "inputCost": 2.65,
+        "outputCost": 3.5,
+        "remark": ""
+    },
+    {
+        "model": "imagen",
+        "provider": "Google",
+        "context": "",
+        "inputCost": 20,
+        "outputCost": 3,
+        "remark": ""
+    },
+    {
+        "model": "mistral-small-2402",
+        "provider": "Mistral",
+        "context": "",
+        "inputCost": 1,
+        "outputCost": 3,
+        "remark": ""
+    },
+    {
+        "model": "codestral-2405",
+        "provider": "Mistral",
+        "context": "",
+        "inputCost": 1,
+        "outputCost": 3,
+        "remark": ""
+    },
+    {
+        "model": "mistral-small",
+        "provider": "Mistral",
+        "context": "32K",
+        "inputCost": 1,
+        "outputCost": 3,
+        "remark": ""
+    },
+    {
+        "model": "gpt-4-1106-vision-preview",
+        "provider": "OpenAI",
+        "context": "",
+        "inputCost": 1,
+        "outputCost": 3,
+        "remark": ""
+    },
+    {
+        "model": "llama-2-chat-70b",
+        "provider": "AWS",
+        "context": "32K",
+        "inputCost": 1.95,
+        "outputCost": 2.56,
+        "remark": ""
+    },
+    {
+        "model": "claude-instant",
+        "provider": "AWS",
+        "context": "32K",
+        "inputCost": 0.8,
+        "outputCost": 2.4,
+        "remark": ""
+    },
+    {
+        "model": "claude-instant-1.2",
+        "provider": "Anthropic",
+        "context": "100K",
+        "inputCost": 0.8,
+        "outputCost": 2.4,
+        "remark": ""
+    },
+    {
+        "model": "gpt-3.5-turbo-0613",
+        "provider": "OpenAI",
+        "context": "4K",
+        "inputCost": 1.5,
+        "outputCost": 2,
+        "remark": ""
+    },
+    {
+        "model": "gpt-3.5-turbo-0301",
+        "provider": "OpenAI",
+        "context": "4K",
+        "inputCost": 1.5,
+        "outputCost": 2,
+        "remark": ""
+    },
+    {
+        "model": "gpt-3.5-turbo-instruct",
+        "provider": "OpenAI",
+        "context": "4K",
+        "inputCost": 1.5,
+        "outputCost": 2,
+        "remark": ""
+    },
+    {
+        "model": "gpt-3.5-turbo-1106",
+        "provider": "OpenAI",
+        "context": "",
+        "inputCost": 1,
+        "outputCost": 2,
+        "remark": ""
+    },
+    {
+        "model": "command",
+        "provider": "AWS",
+        "context": "32K",
+        "inputCost": 1.5,
+        "outputCost": 2,
+        "remark": ""
+    },
+    {
+        "model": "command-r",
+        "provider": "AWS",
+        "context": "4K",
+        "inputCost": 0.5,
+        "outputCost": 1.5,
+        "remark": ""
+    },
+    {
+        "model": "gpt-3.5-turbo-0125",
+        "provider": "OpenAI",
+        "context": "16K",
+        "inputCost": 0.5,
+        "outputCost": 1.5,
+        "remark": ""
+    },
+    {
+        "model": "command-r",
+        "provider": "Cohere",
+        "context": "4K",
+        "inputCost": 0.5,
+        "outputCost": 1.5,
+        "remark": ""
+    },
+    {
+        "model": "visual-captioning",
+        "provider": "Google",
+        "context": "",
+        "inputCost": 1.5,
+        "outputCost": 1.5,
+        "remark": ""
+    },
+    {
+        "model": "visual-q&a",
+        "provider": "Google",
+        "context": "",
+        "inputCost": 1.5,
+        "outputCost": 1.5,
+        "remark": ""
+    },
+    {
+        "model": "claude-3-haiku",
+        "provider": "AWS",
+        "context": "200K",
+        "inputCost": 0.25,
+        "outputCost": 1.25,
+        "remark": ""
+    },
+    {
+        "model": "llama-2-chat-13b",
+        "provider": "AWS",
+        "context": "32K",
+        "inputCost": 0.75,
+        "outputCost": 1,
+        "remark": ""
+    },
+    {
+        "model": "open-mixtral-8x7b",
+        "provider": "Mistral",
+        "context": "",
+        "inputCost": 0.7,
+        "outputCost": 0.7,
+        "remark": ""
+    },
+    {
+        "model": "mixtral-8x7b",
+        "provider": "Mistral",
+        "context": "32K",
+        "inputCost": 0.7,
+        "outputCost": 0.7,
+        "remark": ""
+    },
+    {
+        "model": "llama-3-instruct-8b",
+        "provider": "AWS",
+        "context": "",
+        "inputCost": 0.4,
+        "outputCost": 0.6,
+        "remark": ""
+    },
+    {
+        "model": "command-light",
+        "provider": "Cohere",
+        "context": "",
+        "inputCost": 0.3,
+        "outputCost": 0.6,
+        "remark": ""
+    },
+    {
+        "model": "command-light-fine-tuned",
+        "provider": "Cohere",
+        "context": "",
+        "inputCost": 0.3,
+        "outputCost": 0.6,
+        "remark": ""
+    },
+    {
+        "model": "fine-tuned-command-light",
+        "provider": "Cohere",
+        "context": "",
+        "inputCost": 0.3,
+        "outputCost": 0.6,
+        "remark": ""
+    },
+    {
+        "model": "command-light",
+        "provider": "AWS",
+        "context": "32K",
+        "inputCost": 0.3,
+        "outputCost": 0.6,
+        "remark": ""
+    },
+    {
+        "model": "codey-for-code-generation-32k",
+        "provider": "Google",
+        "context": "",
+        "inputCost": 0.25,
+        "outputCost": 0.5,
+        "remark": ""
+    },
+    {
+        "model": "codey-for-code-chat",
+        "provider": "Google",
+        "context": "",
+        "inputCost": 0.25,
+        "outputCost": 0.5,
+        "remark": ""
+    },
+    {
+        "model": "codey-for-code-chat-32k",
+        "provider": "Google",
+        "context": "",
+        "inputCost": 0.25,
+        "outputCost": 0.5,
+        "remark": ""
+    },
+    {
+        "model": "palm-2-for-chat-chat-bison",
+        "provider": "Google",
+        "context": "",
+        "inputCost": 0.25,
+        "outputCost": 0.5,
+        "remark": ""
+    },
+    {
+        "model": "palm-2-for-chat-32k-chat-bison-32k",
+        "provider": "Google",
+        "context": "",
+        "inputCost": 0.25,
+        "outputCost": 0.5,
+        "remark": ""
+    },
+    {
+        "model": "codey-for-code-generation",
+        "provider": "Google",
+        "context": "",
+        "inputCost": 0.25,
+        "outputCost": 0.5,
+        "remark": ""
+    },
+    {
+        "model": "palm-2-for-text-32k-text-bison-32k",
+        "provider": "Google",
+        "context": "",
+        "inputCost": 0.25,
+        "outputCost": 0.5,
+        "remark": ""
+    },
+    {
+        "model": "palm-2-for-text-text-bison",
+        "provider": "Google",
+        "context": "",
+        "inputCost": 0.25,
+        "outputCost": 0.5,
+        "remark": ""
+    },
+    {
+        "model": "open-mistral-7b",
+        "provider": "Mistral",
+        "context": "",
+        "inputCost": 0.25,
+        "outputCost": 0.25,
+        "remark": ""
+    },
+    {
+        "model": "mistral-7b",
+        "provider": "Mistral",
+        "context": "32K",
+        "inputCost": 0.25,
+        "outputCost": 0.25,
+        "remark": ""
+    },
+    {
+        "model": "mistral-embed",
+        "provider": "Mistral",
+        "context": "",
+        "inputCost": 0.1,
+        "outputCost": 0.1,
+        "remark": ""
+    }
+]
